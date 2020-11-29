@@ -1,6 +1,6 @@
 # CPU-Design
 
-Various labs that had a specific goal to build part of the pipeline logic behind a CPU in Verilog.
+various lab assignments each assesing a section of CPU design. Builds up from ALU and ends with fully pipelined CPU that can adjust to flaws in instructions.
 
 #
 Started with just functional ALU.
